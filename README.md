@@ -5,9 +5,10 @@ INSTRUCTIONS
 -----------------
 
 1. Create a Discord bot at: https://discord.com/developers/applications
-2. After creating the bot, copy the token and execute the .py
-3. Paste the token on there, and go to the server you want to interactuate with.
-4. Start using the Discord Nuker.
+2. Open a command prompt and install the requirements with this command: pip install -r requirements.txt
+3. After creating the bot and installing all the requirements, execute the .py
+4. Paste the token on there, and go to the server you want to interactuate with.
+5. Start using the Discord Nuker.
 
 Note:
 
