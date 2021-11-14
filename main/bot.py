@@ -1,3 +1,6 @@
+# Made by: Koberxx
+# Do NOT remove the message above.
+
 from logging import exception
 import discord
 from discord.errors import Forbidden
